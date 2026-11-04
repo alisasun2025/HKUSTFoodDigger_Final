@@ -6,9 +6,9 @@ from openai import OpenAI
 # ======================================================
 # 🔑 CONFIGURATION
 # ======================================================
-PINECONE_API_KEY = "pcsk_2B4gJF_3FqPEuFMpAUSEpSmhaBREXNN2RvNVxS2dTrzLcivSPnSJ1cbGBCGPhwgU5ANMnM"
+##PINECONE_API_KEY = 
 INDEX_NAME = "semantic-multilingual-e5-large-index"
-DEEPSEEK_API_KEY = "sk-c42c5bc28ff04873bbfcd3e3f8703d35"
+##DEEPSEEK_API_KEY = 
 
 # ======================================================
 # 📂 CATEGORY MAPPING
